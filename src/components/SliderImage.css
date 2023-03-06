@@ -1,0 +1,31 @@
+.box{
+    width: 290px;
+    height: 520px;
+    box-shadow: 0px 0px 20px #489e94;
+    color: #e5ecf1;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    
+}
+
+.box img{
+    width: 280px;
+    height: 250px;
+
+}
+
+.box button{
+    background-color: transparent;
+    border: none;
+    color: #489e94;
+    font-size: 30px;
+    cursor: pointer;  
+    
+    
+        
+}
+.box p{
+ padding: 5px;
+ margin: 10px;
+}
